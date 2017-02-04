@@ -1,5 +1,5 @@
 # react-flux-simple-examp
 
-cd react-flux-simple-example
-npm install
-npm start
+1.cd react-flux-simple-example
+2.npm install
+3.npm start
